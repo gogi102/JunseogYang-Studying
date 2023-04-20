@@ -1,1 +1,1 @@
-# JunseogYang Java and Python
+아무것도 안되어있으면 파이썬 자바 적혀있으면 자바 나머지는 몰라
