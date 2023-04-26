@@ -5,8 +5,6 @@
   Junseog Yang (양준석)
   ---------------------
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkhangyeol)](https://solved.ac/parkhangyeol/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogi102&show_icons=true&theme=radical)
 
 <h1> Experience </h1>
