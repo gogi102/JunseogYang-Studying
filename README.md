@@ -1,5 +1,1 @@
-자바 파이썬만 올라오는 곳 
-java:
-System.out.print("Hello,World"),
-python:
-print("Hello,world")
+학교에서 한 언어 공부들이 올라오는 곳 입니다!
