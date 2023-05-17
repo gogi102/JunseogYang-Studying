@@ -9,7 +9,7 @@ public class Main {
 		int m = sc.nextInt();
 		for(int a = 0; a < m; a++) {
 			
-				int i = sc.nextInt();
+		    int i = sc.nextInt();
 		    int j = sc.nextInt();   
 		    int k = sc.nextInt();
 		    
