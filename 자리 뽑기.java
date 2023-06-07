@@ -35,7 +35,7 @@ public class YJs {
 	                System.out.println();
 	        }
 	       
-
+		sc.close();
 	}
 
 }
