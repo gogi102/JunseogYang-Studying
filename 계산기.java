@@ -53,8 +53,8 @@ static int 곱하기(int a, int b) {
 	result = a*b;
 	return result;
 }		
-static int 나누기(int a, int b) {
-	int result;
+static double 나누기(double a, double b) {
+	double result;
 	result = a/b;
 	return result;
 }		
