@@ -1,0 +1,7 @@
+a_list=[1,2,3]
+
+a_list.append(1)
+print(a_list)
+
+a_list.pop()
+print(a_list.pop())
